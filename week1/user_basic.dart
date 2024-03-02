@@ -31,7 +31,7 @@ void  main(){
   
 
   //yeni bir user adı oluştur. 
-  //yeni bir para ver bu parayı 20 iel topla ve ekranda göster. 
+  //yeni bir para ver bu parayı 20 ile topla ve ekranda göster. 
 
   String musteriad='Sinem';
   int sonuc;
